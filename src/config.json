@@ -1,0 +1,12 @@
+{
+  "pageTitle": "YuriTestouta",
+  "shoutCastUrl": "http://badiswnawfel.dn-s.us:8069/;",
+  "centovaCastUrl": "http://badiswnawfel.dn-s.us:8069/external/rpc.php",
+  "ignoreTracksContaining": ["call-sign", "key-signature"],
+  "tuneinLinks": {
+    "pls": "http://badiswnawfel.dn-s.us:8069/listen.pls?sid=1",
+    "asx": "http://badiswnawfel.dn-s.us:8069/listen.asx?sid=1",
+    "ram": "http://badiswnawfel.dn-s.us:8069/listen.ram?sid=1",
+    "qtl": "http://badiswnawfel.dn-s.us:8069/listen.qtl?sid=1"
+  }
+}
